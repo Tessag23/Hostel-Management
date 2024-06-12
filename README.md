@@ -1,6 +1,6 @@
-# HostelManagement3
+# Hostel Management System
 
-A website that is designed to manage the different activities of a hostel.
+A website that is designed to manage the various activities of a hostel.
 
 ## Features
 - admission
